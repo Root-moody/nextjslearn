@@ -1,0 +1,8 @@
+user.email=moodyamin531@gmail.com
+user.name=root-moody
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/Root-moody/nextjslearn.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
