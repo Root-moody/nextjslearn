@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+    .titles{
+        @apply font-semibold text-2xl text-center mb-5;
+    }
+    .paragraphs{
+        @apply font-light text-sm mb-5;
+    }
+    .maindiv{
+        @apply flex justify-center items-center h-[84vh] bg-slate-100;
+    }
+    .innermain{
+        @apply max-w-4xl;
+    }
+}
